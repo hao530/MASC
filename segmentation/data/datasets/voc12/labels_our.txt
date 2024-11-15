@@ -1,0 +1,18 @@
+0	_background_
+1	architecture
+2	stairs
+3	window
+4	pillar
+5	tsun-shou
+6	door
+7	stone step
+8	architrave
+9	plaque
+10	dou-gong
+11	ridge
+12	pagoda
+13	stone lion
+14	stone elephant
+15	fence
+16	censer
+17	stone tablet
